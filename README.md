@@ -88,7 +88,7 @@ This project includes a security-focused layer to reduce risks and improve relia
 
 ## Repository Structure
 
-```text
+text
 CONTRACT-AI/
   backend/
     api/                 # FastAPI routers (upload, ask, summary, health)
