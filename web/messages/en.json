@@ -1,0 +1,225 @@
+{
+    "Home": {
+      "heroTitle1": "Your Smart Assistant for Employment Contracts",
+      "heroTitle2": "in Saudi Arabia",
+      "heroDesc": "Daleel reads your contract, highlights key clauses, and answers your questions using the contract text and Saudi Labor Law evidence.",
+  
+      "chip1": "Evidence-based answers",
+      "chip2": "Clear, fast summaries",
+      "chip3": "Supports Arabic and English",
+  
+      "ctaUpload": "Upload your contract",
+      "ctaAsk": "Ask a general question",
+  
+      "featuresTitle": "What does Daleel offer?",
+      "featuresDesc": "Simple services to help you understand your contract quickly and confidently",
+  
+      "f1Title": "Upload Contract",
+      "f1Desc": "Upload a PDF or DOCX to split it into clauses and prepare it for Q&A and summaries.",
+      "f1Link": "Start now",
+  
+      "f2Title": "Contract Q&A",
+      "f2Desc": "Ask about any clause and get an answer grounded in the contract and Saudi Labor Law.",
+  
+      "f3Title": "Smart Summary",
+      "f3Desc": "Get a full summary or a focused summary by topic (salary, probation, termination, etc.).",
+  
+      "f4Title": "General Chat",
+      "f4Desc": "Ask about contracts and Saudi Labor Law without uploading a contract.",
+  
+      "trust1": "Answers grounded in contract text",
+      "trust2": "Data privacy is a priority",
+      "trust3": "Disclaimer: Outputs are informational and not legally binding advice"
+    },
+  
+    "Upload": {
+      "navHome": "Home",
+      "navUpload": "Upload",
+      "navQA": "Q&A",
+      "navSummary": "Summary",
+      "navGeneral": "General Chat",
+  
+      "title": "Upload Your Contract",
+      "subtitle": "Upload the contract file (PDF or DOCX) so Daleel can split it into clauses and prepare it for Q&A and summaries.",
+  
+      "cardTitle": "Upload your contract",
+      "cardDesc": "Supports Arabic and English. The contract language will be detected automatically after upload.",
+  
+      "dropTitle": "Drop your file here or choose from your device",
+      "dropHint": "We accept PDF and DOCX. Make sure the text is clear for best results.",
+  
+      "selected": "Selected file",
+      "noFile": "No file selected",
+      "chooseFile": "Choose file",
+      "uploadBtn": "Upload contract",
+      "uploading": "Uploading...",
+      "goToQA": "Go to Contract Q&A",
+  
+      "progress": "Progress",
+      "progressHint": "A progress bar will appear while uploading.",
+      "maxSize": "Reasonable size",
+  
+      "success": "Contract uploaded successfully",
+      "contractId": "Contract ID",
+      "language": "Language",
+      "clauses": "Clauses",
+  
+      "invalidType": "Unsupported file type. Please upload PDF or DOCX only.",
+      "unknownError": "An unexpected error occurred.",
+  
+      "step1Title": "Upload file",
+      "step1Desc": "Upload an employment contract in PDF or DOCX format.",
+      "step2Title": "Analyze clauses",
+      "step2Desc": "The system splits the contract into searchable clauses.",
+      "step3Title": "Start using",
+      "step3Desc": "Ask, summarize, or verify clauses with evidence-based sources.",
+  
+      "sideTitle": "Important info",
+      "side1": "Answers are based on the contract text and system sources",
+      "side2": "Data privacy is a priority",
+      "side3": "Disclaimer: Outputs are informational and not legally binding advice",
+  
+      "tipTitle": "Tip",
+      "tipDesc": "If your contract is an image (scanned), convert it to text for better extraction."
+    },
+  
+    "QA": {
+      "title": "Contract Q&A",
+      "subtitle": "Ask about any clause and get an evidence-based answer from the contract and Saudi Labor Law.",
+      "contractIdLabel": "Contract ID:",
+      "noId": "Not available",
+      "panelTitle": "Chat",
+      "panelHint": "Type your question about the uploaded contract",
+      "enterHint": "Enter to send • Shift+Enter for a new line",
+      "quick1": "What is the salary?",
+        "quick2": "What is the probation period?",
+        "quick3": "What are the termination and notice terms?",
+        "quick4": "How is overtime calculated?",
+        "fromContract": "From your contract",
+        "saudiLaborLaw": "Saudi Labor Law",
+        "contract": "Contract",
+        "law": "Labor Law",
+
+  
+      "emptyTitle": "Start with a question",
+      "emptyDesc": "Try a quick question above or type your question below.",
+  
+      "placeholder": "Ask about the uploaded contract…",
+      "send": "Send",
+      "sending": "Sending…",
+      "thinking": "Thinking…",
+  
+      "noContract": "No contract found. Please upload a contract first from the Upload page.",
+  
+      "hint1": "Answers are grounded in the contract text",
+      "hint2": "Mention the topic/clause for more accurate results",
+  
+      "sideTitle": "Tips for better answers",
+      "side1": "Ask a specific and clear question",
+      "side2": "Use keywords (salary, probation, termination…)",
+      "side3": "Outputs are informational and not legal advice",
+  
+      "tipTitle": "Note",
+      "tipDesc": "If the contract is scanned as an image, extraction accuracy may be lower.",
+  
+      "sourcesTitle": "Sources",
+      "sourcesDesc": "Coming soon: We will show the clauses and references used for the answer."
+    },
+  
+    "Nav": {
+      "home": "Home",
+      "upload": "Upload",
+      "qa": "Q&A",
+      "summary": "Summary",
+      "general": "General Chat"
+    },
+  
+    "Summary": {
+      "title": "Contract Summary",
+      "subtitle": "Generate a clear, structured summary of the employment contract with evidence-based citations.",
+  
+      "contractId": "Contract ID",
+      "notUploaded": "No contract uploaded",
+      "goUpload": "Go to Upload",
+  
+      "cardTitle": "Generate contract summary",
+      "cardDesc": "Choose summary type and (if needed) topics, then generate the summary.",
+  
+      "modeFull": "Full summary",
+      "modeFocused": "Focused summary",
+  
+      "outputLang": "Output language",
+  
+      "topicsTitle": "Select summary topics",
+      "topicsDesc": "Choose the clauses you want to focus on in the summary.",
+      "topicsHint": "Please select at least one topic",
+      "selectedCount": "Selected",
+      "overviewTitle": "Overview",
+    "salary": "Salary",
+    "probation": "Probation Period",
+    "workingHours": "Working Hours",
+    "leave": "Leave",
+    "termination": "Termination",
+    "obligations": "Obligations",
+    "benefits": "Benefits",
+    "penalties": "Penalties",
+    "duration": "Contract Duration",
+  
+      "topic": {
+        "Salary": "Salary & compensation",
+        "Probation": "Probation period",
+        "Termination": "Termination",
+        "Working Hours": "Working hours",
+        "Leave": "Leave",
+        "Benefits": "Benefits",
+        "Non-Compete": "Non-compete",
+        "Penalties": "Penalties",
+        "Duration": "Contract duration"
+      },
+  
+      "generateBtn": "Generate summary",
+      "generating": "Generating...",
+      "clearBtn": "Clear result",
+      "goQA": "Go to Q&A",
+  
+      "emptyTitle": "No summary yet",
+      "emptyDesc": "Choose settings and click \"Generate summary\" to see the result here.",
+  
+      "needUpload": "Please upload a contract before generating a summary.",
+  
+      "sideTitle": "Important notes",
+      "side1": "The summary is based only on the contract text and Saudi Labor Law evidence",
+      "side2": "Each bullet is cited with its source",
+      "side3": "Disclaimer: Outputs are informational and not legal advice",
+  
+      "tipTitle": "Tip",
+      "tipDesc": "Use Focused summary when you want specific information quickly."
+    },
+  
+    "General": {
+      "title": "General Chat",
+      "subtitle": "Ask about Saudi Labor Law and employment contracts without uploading a contract.",
+      "cardTitle": "Chat",
+      "cardDesc": "Type your question. We will answer using evidence when available.",
+      "placeholder": "Type your question here...",
+      "sendBtn": "Send",
+      "clearBtn": "Clear",
+      "thinking": "Thinking...",
+      "hintKeys": "Enter to send • Shift+Enter for a new line",
+      "emptyTitle": "Start with a question",
+      "emptyDesc": "Try one of the quick questions above, or type your own.",
+  
+      "quick1": "What is the probation period in Saudi labor law?",
+      "quick2": "When can an employer terminate the contract?",
+      "quick3": "How is overtime calculated?",
+      "quick4": "What are the annual leave rights?",
+  
+      "sideTitle": "Important Notes",
+      "side1": "General chat uses labor law evidence (no uploaded contract).",
+      "side2": "Details may differ by contract type and sector.",
+      "side3": "Disclaimer: This is informational, not binding legal advice.",
+      "tipTitle": "Tip",
+      "tipDesc": "Ask a specific question (e.g., notice period, overtime, leave, EOSB)."
+    }
+  }
+  

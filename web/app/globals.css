@@ -1,0 +1,20 @@
+
+
+@import "tailwindcss";
+
+/* Your theme variables */
+:root{
+  --primary: #1F2A44;
+  --text: #1C1C1C;
+  --bg: #F6F5F2;
+  --gold: #D4AF6A;
+  --ai: #6FA8FF;
+  --border: #E5E5E5;
+  --card: #FFFFFF;
+}
+
+html, body {
+  background: var(--bg);
+  color: var(--text);
+}
+

@@ -1,0 +1,212 @@
+{
+    "Home": {
+      "heroTitle1": "Smart Assistant para sa Employment Contracts",
+      "heroTitle2": "sa Saudi Arabia",
+      "heroDesc": "Binabasa ni Daleel ang kontrata mo, nililinaw ang mahahalagang clause, at sumasagot gamit ang teksto ng kontrata at ebidensya mula sa Saudi Labor Law.",
+  
+      "chip1": "Sagot na may source",
+      "chip2": "Malinaw at mabilis na summary",
+      "chip3": "Suporta: Arabic at English",
+  
+      "ctaUpload": "I-upload ang kontrata",
+      "ctaAsk": "Magtanong (general)",
+  
+      "featuresTitle": "Ano ang kaya ni Daleel?",
+      "featuresDesc": "Simple at diretsong services para maintindihan ang kontrata nang mabilis at may kumpiyansa",
+  
+      "f1Title": "Upload Contract",
+      "f1Desc": "Mag-upload ng PDF o DOCX para hatiin sa clauses at ihanda para sa Q&A at summaries.",
+      "f1Link": "Simulan ngayon",
+  
+      "f2Title": "Contract Q&A",
+      "f2Desc": "Magtanong tungkol sa anumang clause at makakuha ng sagot na naka-base sa kontrata at Saudi Labor Law.",
+  
+      "f3Title": "Smart Summary",
+      "f3Desc": "Full summary o focused summary per topic (salary, probation, termination, atbp.).",
+  
+      "f4Title": "General Chat",
+      "f4Desc": "Magtanong tungkol sa kontrata at Saudi Labor Law nang hindi nag-a-upload ng kontrata.",
+  
+      "trust1": "Sagot na naka-base sa kontrata",
+      "trust2": "Prayoridad ang data privacy",
+      "trust3": "Disclaimer: Impormasyon lang ito, hindi legal advice"
+    },
+  
+    "Upload": {
+      "navHome": "Home",
+      "navUpload": "Upload",
+      "navQA": "Q&A",
+      "navSummary": "Summary",
+      "navGeneral": "General Chat",
+  
+      "title": "I-upload ang Kontrata",
+      "subtitle": "Mag-upload ng kontrata (PDF o DOCX) para hatiin ni Daleel sa clauses at ihanda para sa Q&A at summaries.",
+  
+      "cardTitle": "Upload your contract",
+      "cardDesc": "Suporta: Arabic at English. Auto-detect ang language pagkatapos ng upload.",
+  
+      "dropTitle": "I-drop ang file dito o pumili mula sa device",
+      "dropHint": "Tumatanggap ng PDF at DOCX. Siguraduhing malinaw ang text para mas magandang resulta.",
+  
+      "selected": "Selected file",
+      "noFile": "Walang napiling file",
+      "chooseFile": "Pumili ng file",
+      "uploadBtn": "I-upload",
+      "uploading": "Nag-a-upload...",
+      "goToQA": "Pumunta sa Contract Q&A",
+  
+      "progress": "Progress",
+      "progressHint": "Lalabas ang progress bar habang nag-a-upload.",
+      "maxSize": "Katamtamang laki",
+  
+      "success": "Matagumpay na na-upload ang kontrata",
+      "contractId": "Contract ID",
+      "language": "Language",
+      "clauses": "Clauses",
+  
+      "invalidType": "Hindi suportadong file type. PDF o DOCX lang.",
+      "unknownError": "May hindi inaasahang error.",
+  
+      "step1Title": "Upload file",
+      "step1Desc": "I-upload ang employment contract (PDF/DOCX).",
+      "step2Title": "Analyze clauses",
+      "step2Desc": "Hahatiin ng system ang kontrata sa searchable clauses.",
+      "step3Title": "Start using",
+      "step3Desc": "Magtanong, magpa-summary, o i-check ang clauses na may sources.",
+  
+      "sideTitle": "Important info",
+      "side1": "Sagot ay base sa kontrata at sources ng system",
+      "side2": "Prayoridad ang data privacy",
+      "side3": "Disclaimer: Impormasyon lang ito, hindi legal advice",
+  
+      "tipTitle": "Tip",
+      "tipDesc": "Kung scanned image ang kontrata, i-convert sa text para mas magandang extraction."
+    },
+  
+    "QA": {
+      "title": "Contract Q&A",
+      "subtitle": "Magtanong tungkol sa anumang clause at makakuha ng sagot na may sources mula sa kontrata at Saudi Labor Law.",
+      "contractIdLabel": "Contract ID:",
+      "noId": "Not available",
+      "panelTitle": "Chat",
+      "panelHint": "I-type ang tanong tungkol sa uploaded contract",
+      "enterHint": "Enter para mag-send • Shift+Enter para new line",
+
+      "quick1": "Ano ang salary?",
+"quick2": "Gaano katagal ang probation period?",
+"quick3": "Ano ang terms sa termination at notice?",
+"quick4": "Paano kino-compute ang overtime?",
+
+  
+      "emptyTitle": "Magsimula sa tanong",
+      "emptyDesc": "Subukan ang quick questions sa itaas o mag-type ng tanong sa ibaba.",
+  
+      "placeholder": "Magtanong tungkol sa uploaded contract…",
+      "send": "Send",
+      "sending": "Sending…",
+      "thinking": "Thinking…",
+  
+      "noContract": "Walang contract na nahanap. Pak i-upload muna sa Upload page.",
+  
+      "hint1": "Ang sagot ay naka-base sa kontrata",
+      "hint2": "Banggitin ang topic/clause para mas accurate",
+  
+      "sideTitle": "Tips para mas accurate",
+      "side1": "Gawing specific at malinaw ang tanong",
+      "side2": "Gumamit ng keywords (salary, probation, termination…)",
+      "side3": "Impormasyon lang ito, hindi legal advice",
+  
+      "tipTitle": "Note",
+      "tipDesc": "Kapag scanned image ang kontrata, pwedeng bumaba ang accuracy ng extraction.",
+  
+      "sourcesTitle": "Sources",
+      "sourcesDesc": "Coming soon: Ipapakita namin ang clauses/references na ginamit."
+    },
+  
+    "Nav": {
+      "home": "Home",
+      "upload": "Upload",
+      "qa": "Q&A",
+      "summary": "Summary",
+      "general": "General Chat"
+    },
+  
+    "Summary": {
+      "title": "Contract Summary",
+      "subtitle": "Gumawa ng malinaw at structured na summary ng kontrata na may citations.",
+  
+      "contractId": "Contract ID",
+      "notUploaded": "Walang na-upload na contract",
+      "goUpload": "Pumunta sa Upload",
+  
+      "cardTitle": "Generate summary",
+      "cardDesc": "Pumili ng uri ng summary at topics (kung kailangan), tapos i-generate.",
+  
+      "modeFull": "Full summary",
+      "modeFocused": "Focused summary",
+  
+      "outputLang": "Output language",
+  
+      "topicsTitle": "Piliin ang topics",
+      "topicsDesc": "Pumili ng clauses na gusto mong i-focus.",
+      "topicsHint": "Pumili ng kahit isang topic",
+      "selectedCount": "Selected",
+  
+      "topic": {
+        "Salary": "Salary & compensation",
+        "Probation": "Probation period",
+        "Termination": "Termination",
+        "Working Hours": "Working hours",
+        "Leave": "Leave",
+        "Benefits": "Benefits",
+        "Non-Compete": "Non-compete",
+        "Penalties": "Penalties",
+        "Duration": "Contract duration"
+      },
+  
+      "generateBtn": "Generate",
+      "generating": "Generating...",
+      "clearBtn": "Clear",
+      "goQA": "Go to Q&A",
+  
+      "emptyTitle": "Wala pang summary",
+      "emptyDesc": "Pumili ng settings at i-click ang \"Generate\" para lumabas dito ang result.",
+  
+      "needUpload": "Mag-upload muna ng contract bago gumawa ng summary.",
+  
+      "sideTitle": "Important notes",
+      "side1": "Summary ay base lang sa kontrata at Saudi Labor Law evidence",
+      "side2": "Bawat bullet ay may source",
+      "side3": "Disclaimer: Impormasyon lang ito, hindi legal advice",
+  
+      "tipTitle": "Tip",
+      "tipDesc": "Gamitin ang Focused summary kung specific info ang kailangan mo."
+    },
+  
+    "General": {
+      "title": "General Chat",
+      "subtitle": "Magtanong tungkol sa Saudi Labor Law at employment contracts nang hindi nag-a-upload ng contract.",
+      "cardTitle": "Chat",
+      "cardDesc": "I-type ang tanong. Sasagot kami gamit ang evidence kung meron.",
+      "placeholder": "I-type ang tanong dito...",
+      "sendBtn": "Send",
+      "clearBtn": "Clear",
+      "thinking": "Thinking...",
+      "hintKeys": "Enter para mag-send • Shift+Enter para new line",
+      "emptyTitle": "Magsimula sa tanong",
+      "emptyDesc": "Subukan ang quick questions sa itaas o mag-type ng tanong.",
+  
+      "quick1": "Ano ang probation period sa Saudi labor law?",
+      "quick2": "Kailan puwedeng i-terminate ng employer ang contract?",
+      "quick3": "Paano kino-compute ang overtime?",
+      "quick4": "Ano ang rights sa annual leave?",
+  
+      "sideTitle": "Important Notes",
+      "side1": "General chat uses labor law evidence (no uploaded contract).",
+      "side2": "Maaaring mag-iba depende sa type ng contract at sector.",
+      "side3": "Disclaimer: Impormasyon lang ito, hindi legal advice.",
+      "tipTitle": "Tip",
+      "tipDesc": "Maging specific sa tanong (notice period, overtime, leave, EOSB)."
+    }
+  }
+  
