@@ -1,0 +1,258 @@
+﻿contract_id,language,clause_id,clause_text,label
+C001,ar,1.a,"يعين صاحب العمل الموظف بموجب هذا العقد للعمل لديه بوظيفة محددة، ويوافق الموظف على أداء واجبات الوظيفة وأي مهام أخرى يكلفه بها صاحب العمل.",duties
+C001,en,1.a,The Employer hereby engages the Employee to work in a specified position and the Employee agrees to perform the job duties and any additional tasks assigned.,duties
+C001,ar,1.b,يخضع التوظيف لاجتياز الفحص الطبي والحصول على موافقات وزارة التعليم والالتحاق بالعمل في التاريخ المحدد.,general
+C001,en,1.b,"Employment is conditional upon medical clearance, required approvals from the Ministry of Education, and reporting to work by the specified date.",general
+C001,ar,2.a,الراتب الشهري الأساسي للموظف محدد بالريال السعودي ويشمل جميع أيام الشهر بما فيها العطل الرسمية.,salary_terms
+C001,en,2.a,The Employee’s base monthly salary is fixed in Saudi Riyals and includes all days of the month including official holidays.,salary_terms
+C001,ar,2.b,يتم صرف الراتب الشهري مع البدلات بعد خصم الاستقطاعات المستحقة في الأسبوع الأول من كل شهر.,salary_terms
+C001,en,2.b,The monthly salary plus allowances minus deductions shall be paid during the first week of each month.,salary_terms
+C001,ar,4.1,يعتبر هذا العقد محدد المدة لمدة سنة ميلادية واحدة قابلة للتجديد.,contract_duration
+C001,en,4.1,This contract is for a definite period of one Gregorian year and is renewable.,contract_duration
+C001,ar,4.2,يكون الموظف تحت التجربة لمدة ثلاثة أشهر ويجوز تمديدها ويحق لصاحب العمل إنهاؤها دون إبداء أسباب.,probation
+C001,en,4.2,"The Employee shall be on probation for the first three months, which may be extended, and the Employer may terminate during probation without cause.",probation
+C001,ar,5.1,يتعهد الموظف بالالتزام بسياسات وتعليمات صاحب العمل والأنظمة المعمول بها في المملكة.,duties
+C001,en,5.1,The Employee undertakes to comply with all Employer policies and applicable laws in the Kingdom.,duties
+C001,ar,6.1,يقر الموظف بعدم وجود أي تعارض مصالح أو اتفاقيات سابقة تتعارض مع هذا العقد.,duties
+C001,en,6.1,The Employee represents that no prior agreements exist that conflict with this Agreement.,duties
+C001,ar,8.1,يلتزم الموظف بالمحافظة على سرية المعلومات وعدم إفشائها أثناء أو بعد انتهاء الخدمة.,duties
+C001,en,8.1,The Employee shall maintain confidentiality of all proprietary information during and after employment.,duties
+C001,ar,9.1,يوافق الموظف على عدم منافسة الجامعة أثناء العمل ولمدة سنتين بعد انتهائه.,penalties
+C001,en,9.1,The Employee agrees not to compete with the University during employment and for two years thereafter.,penalties
+C001,ar,11.1,تحدد ساعات العمل الأسبوعية ويجوز للجامعة تعديلها حسب مصلحة العمل.,working_hours
+C001,en,11.1,Working hours per week are defined and may be adjusted by the University as required.,working_hours
+C001,ar,12.1,يستحق الموظف العطل الرسمية وفق نظام العمل السعودي مع تعويض عن العمل خلالها.,benefits
+C001,en,12.1,The Employee is entitled to official holidays in accordance with Saudi Labor Law.,benefits
+C001,ar,13.1,يستحق الموظف إجازة سنوية مدفوعة الأجر وفق نظام العمل.,benefits
+C001,en,13.1,The Employee is entitled to paid annual leave in accordance with Saudi Labor Law.,benefits
+C001,ar,15.1,يلتزم صاحب العمل بتسجيل الموظف في التأمينات الاجتماعية.,benefits
+C001,en,15.1,The Employer shall register the Employee with GOSI and pay required contributions.,benefits
+C001,ar,18.1,يحق لصاحب العمل إنهاء العقد دون تعويض في حال مخالفة المادة 80 من نظام العمل.,termination
+C001,en,18.1,The Employer may terminate the contract without compensation in accordance with Article 80 of Saudi Labor Law.,termination
+C001,ar,18.2,يستحق الموظف مكافأة نهاية الخدمة إذا كان مستحقاً لها وفق نظام العمل.,termination
+C001,en,18.2,"Upon termination, the Employee shall receive end-of-service benefits if eligible under the law.",termination
+C001,ar,20.1,يخضع هذا العقد لأنظمة وقوانين المملكة العربية السعودية.,governing_law
+C001,en,20.1,This Agreement shall be governed by the laws of the Kingdom of Saudi Arabia.,governing_law
+C002,en,1.01,Employer hereby employs employee and employee hereby accepts employment with employer as Senior QA/QC Inspector.,duties
+C002,en,1.02,"The employment period will commence from 30th April, 2020 for a duration of 36 months after which employment shall cease or be renewed by mutual agreement.",contract_duration
+C002,en,2.01,"Employee agrees to devote all of his time, attention and energy to the performance of employee's duties under this agreement.",duties
+C002,en,2.02,Employee shall strictly adhere to and obey all the rules and regulations now in effect or as subsequently modified by the employer.,duties
+C002,en,2.03,The employment shall continue only as long as the services rendered by the employee are satisfactory to the employer.,duties
+C002,en,2.04,Employee warrants that entering into this agreement will not violate any agreement with third parties.,duties
+C002,en,3.01,"The employer shall pay the employee a monthly basic salary of US$19,800 or equivalent depending on currency preference.",salary_terms
+C002,en,3.02,"Housing shall be provided by the employer or a housing allowance of US$2,900 per month shall be paid.",benefits
+C002,en,3.03,"The employer shall pay US$2,550 for personal effects shipment and excess baggage allowance.",benefits
+C002,en,3.04,The employer shall provide comprehensive health care for the employee and family during the term of the contract.,benefits
+C002,en,3.05,"Educational assistance benefits of US$2,380 per month shall be provided for family status contracts.",benefits
+C002,en,4.01,The employee will be reimbursed for reasonable moving expenses incurred as a result of relocation.,benefits
+C002,en,5.01,Normal working hours shall be Sunday to Thursday from 7:30am to 4:30pm excluding public holidays.,working_hours
+C002,en,5.02,Employee may be required to work additional hours as reasonably necessary and shall receive additional remuneration.,working_hours
+C002,en,6.01,The job title does not limit the work which the employee may be required to perform.,duties
+C002,en,7.01,Employment shall continue until terminated by notice or under the employerâ€™s disciplinary procedures.,termination
+C002,en,8.01,The first three monthsâ€™ salary shall be paid in advance upon confirmation of work permit procurement.,salary_terms
+C002,en,9.01,Employee shall be entitled to paid vacation of four weeks twice yearly subject to employer approval.,benefits
+C002,en,10.01,The contract is subject to a probation period of three months based on performance.,probation
+C002,en,10.02,"In the event of termination, the employee shall be entitled only to compensation accrued prior to termination.",termination
+C002,en,11.01,"All records, documents, and trade secrets obtained during employment remain the exclusive property of the employer.",duties
+C002,en,11.02,Employee shall not disclose or misuse any trade secrets during or after employment.,duties
+C002,en,12.01,Any notices between the parties shall be delivered in writing either personally or by registered mail.,general
+C002,en,13.01,"If the employee is unable to perform duties due to illness for more than four weeks, compensation may be reduced.",general
+C002,en,15.01,The employer may terminate this agreement without cause upon 30 daysâ€™ written notice.,termination
+C002,en,15.02,The employee may terminate employment upon 30 daysâ€™ written notice but shall not receive severance allowance.,termination
+C002,en,17.01,This agreement shall be governed by and construed in accordance with the laws of the Kingdom of Saudi Arabia.,governing_law
+C003,ar,1.1,يتم إبرام هذا العقد بين الطرفين ويُعد ما ورد في مقدمته جزءًا لا يتجزأ منه.,general
+C003,en,1.1,This agreement is concluded between the two parties and the preamble forms an integral part thereof.,general
+C003,ar,2.1,يسري هذا العقد لمدة غير محددة اعتبارًا من تاريخ مباشرة العمل في 01/09/2022.,contract_duration
+C003,en,2.1,This contract shall be effective for an indefinite period starting from the joining date of 01/09/2022.,contract_duration
+C003,ar,3.1,تكون أيام العمل خمسة أيام في الأسبوع وساعات العمل اليومية ثماني ساعات.,working_hours
+C003,en,3.1,Working days shall be five days per week and daily working hours shall be eight hours.,working_hours
+C003,ar,4.1,يستحق الطرف الثاني إجازة سنوية مدفوعة الأجر مدتها ثلاثون يومًا تقويميًا.,benefits
+C003,en,4.1,The second party shall be entitled to a paid annual leave of thirty calendar days.,benefits
+C003,ar,5.1,"يستحق الطرف الثاني راتبًا أساسيًا شهريًا قدره 14,000 ريال سعودي.",salary_terms
+C003,en,5.1,"The second party shall receive a basic monthly salary of SAR 14,000.",salary_terms
+C003,ar,7.1,يلتزم الطرف الأول بتوفير الرعاية الصحية وتسجيل الطرف الثاني في التأمينات الاجتماعية.,benefits
+C003,en,7.1,The first party shall provide health care and register the second party with GOSI.,benefits
+C003,ar,8.1,يلتزم الطرف الثاني بأداء العمل المكلف به والالتزام بتعليمات وأنظمة العمل.,duties
+C003,en,8.1,The second party shall perform assigned duties and comply with work instructions and regulations.,duties
+C003,ar,9.1,يخضع هذا العقد لنظام العمل السعودي ولائحته التنفيذية.,governing_law
+C003,en,9.1,This contract shall be governed by Saudi Labor Law and its executive regulations.,governing_law
+C004,ar,1.1,يسر الشركة دعوتكم للانضمام إلى فريق العمل بوظيفة محددة وفق الشروط الواردة أدناه.,duties
+C004,en,1.1,The company is pleased to invite you to join the team in a specified position under the following terms.,duties
+C004,ar,2.1,تكون مدة العقد ستة أشهر قابلة للتجديد بموافقة الطرفين.,contract_duration
+C004,en,2.1,"The contract term shall be six months, renewable upon mutual agreement.",contract_duration
+C004,ar,3.1,"يستحق الموظف راتبًا شهريًا أساسيًا قدره 1,800 ريال سعودي.",salary_terms
+C004,en,3.1,"The employee shall receive a basic monthly salary of SAR 1,800.",salary_terms
+C004,ar,4.1,يستحق الموظف إجازة سنوية مدفوعة الأجر وفق أنظمة الشركة.,benefits
+C004,en,4.1,The employee shall be entitled to paid annual leave according to company policy.,benefits
+C004,ar,5.1,توفر الشركة للموظف تأمينًا صحيًا طوال مدة العقد.,benefits
+C004,en,5.1,The company shall provide the employee with health insurance for the duration of the contract.,benefits
+C004,ar,6.1,يلتزم الموظف بالالتزام بكافة سياسات وأنظمة الشركة.,duties
+C004,en,6.1,The employee must comply with all company policies and regulations.,duties
+C004,ar,7.1,يجوز لأي من الطرفين إنهاء العقد بإشعار خطي مسبق مدته شهر واحد.,termination
+C004,en,7.1,Either party may terminate the contract with one month prior written notice.,termination
+C005,ar,0.1,عقد عمل إلكتروني عبر منصة قوى تحت إشراف وزارة الموارد البشرية والتنمية الاجتماعية بالمملكة العربية السعودية.,general
+C005,en,0.1,An electronic employment contract issued via Qiwa under the supervision of the Ministry of Human Resources and Social Development in the Kingdom of Saudi Arabia.,general
+C005,ar,0.2,"أطراف العقد: الطرف الأول [EMPLOYER] والطرف الثاني [EMPLOYEE]، وتم استبدال البيانات الشخصية بمعرّفات بديلة لأغراض البيانات.",general
+C005,en,0.2,Contract parties: First Party [EMPLOYER] and Second Party [EMPLOYEE]. Personal identifiers are replaced with placeholders for dataset use.,general
+C005,ar,1.1,اتفق الطرفان على أن يعمل الطرف الثاني لدى الطرف الأول تحت إدارته وإشرافه بوظيفة عامل تنظيف مركبات وأعمال مماثلة وفق ما يُكلّف به.,duties
+C005,en,1.1,The parties agree that the Second Party will work for the First Party under its management and supervision in the role of vehicle cleaner (and similar duties) as assigned.,duties
+C005,ar,1.2,يؤدي الطرف الثاني العمل بما يتناسب مع قدراته وبما لا يتعارض مع أحكام نظام العمل.,duties
+C005,en,1.2,The Second Party shall perform assigned work in line with their capabilities and in a manner consistent with Saudi Labor Law.,duties
+C005,ar,2.1,"مدة العقد أربع سنوات تبدأ من 21-01-2020 وتنتهي في 20-01-2024، وتاريخ المباشرة 21-01-2020.",contract_duration
+C005,en,2.1,"The contract duration is four years starting on 21-01-2020 and ending on 20-01-2024, with the joining date on 21-01-2020.",contract_duration
+C005,ar,2.2,يتجدد العقد تلقائيًا لمدة مماثلة ما لم يخطر أحد الطرفين الآخر كتابة بعدم الرغبة في التجديد قبل 30 يومًا من تاريخ الانتهاء.,contract_duration
+C005,en,2.2,The contract renews for a similar period unless either party notifies the other in writing of unwillingness to renew at least 30 days before expiry.,contract_duration
+C005,ar,2.3,"فترة التجربة للطرف الثاني 0 يوم وتبدأ من تاريخ مباشرة العمل، ولا تدخل الإجازات في احتسابها.",probation
+C005,en,2.3,The Second Party is subject to a probation period of 0 days starting from the commencement date; leave/holidays are not included in the calculation.,probation
+C005,ar,3.1,"ساعات العمل 48 ساعة أسبوعيًا، ويستحق الطرف الثاني أجرًا إضافيًا عن الساعات الإضافية يعادل الأجر بالساعة + 50% من الأجر الأساسي.",working_hours
+C005,en,3.1,Working hours are set to 48 hours per week. The Second Party is entitled to overtime pay equal to the hourly wage plus 50% of the basic wage.,working_hours
+C005,ar,4.1,يدفع الطرف الأول للطرف الثاني أجرًا أساسيًا قدره 400 ريال سعودي شهريًا ويستحق في نهاية كل شهر.,salary_terms
+C005,en,4.1,"The First Party pays the Second Party a basic wage of SAR 400 per month, due at the end of each month.",salary_terms
+C005,ar,4.2,يلتزم الطرف الأول بتوفير سكن مناسب طوال مدة العقد.,benefits
+C005,en,4.2,The First Party commits to providing adequate housing throughout the contract period.,benefits
+C005,ar,4.3,يلتزم الطرف الأول بتوفير وسيلة نقل مناسبة من السكن إلى مقر العمل.,benefits
+C005,en,4.3,The First Party commits to providing appropriate transportation from residence to workplace.,benefits
+C005,ar,4.4,"يدفع الطرف الأول بدلًا/مخصصات أخرى قدرها 1,596 ريال سعودي شهريًا تُصرف في نهاية كل شهر.",salary_terms
+C005,en,4.4,"The First Party pays other allowances of SAR 1,596 per month, payable at the end of each month.",salary_terms
+C005,ar,5.1,"يستحق الطرف الثاني إجازة سنوية مدفوعة الأجر مدتها 21 يومًا عن كل سنة، ويحدد الطرف الأول مواعيدها وفق ظروف العمل.",benefits
+C005,en,5.1,The Second Party is entitled to a paid annual leave of 21 days per year; dates are determined by the First Party according to work conditions.,benefits
+C005,ar,5.2,يجوز تأجيل الإجازة وفق متطلبات العمل وبما لا يتجاوز المدد المنصوص عليها.,benefits
+C005,en,5.2,Annual leave may be postponed in line with work requirements within the limits stated.,benefits
+C005,ar,6.1,يلتزم الطرف الأول بتوفير الرعاية الطبية للطرف الثاني عبر التأمين الصحي وفق نظام الضمان الصحي التعاوني.,benefits
+C005,en,6.1,The First Party shall provide medical care/health insurance in accordance with the Cooperative Health Insurance system.,benefits
+C005,ar,6.2,يلتزم الطرف الأول بسداد اشتراكات التأمينات الاجتماعية وفق الأنظمة.,benefits
+C005,en,6.2,The First Party is obligated to pay GOSI contributions in accordance with regulations.,benefits
+C005,ar,6.3,يتحمل الطرف الأول رسوم الاستقدام/نقل الخدمة ورسوم الإقامة ورخصة العمل وتجديدها والغرامات الناتجة عنها ورسوم الخروج والعودة وتذكرة العودة بعد انتهاء العلاقة.,benefits
+C005,en,6.3,"The First Party bears fees related to recruitment/transfer, residency fees, work permit and renewals, related fines, exit/re-entry fees, and the return ticket upon end of employment (as applicable).",benefits
+C005,ar,7.1,يلتزم الطرف الثاني بأداء العمل وفق أصول المهنة واتباع تعليمات الطرف الأول ما لم تخالف العقد أو النظام أو الآداب العامة.,duties
+C005,en,7.1,"The Second Party shall perform work per professional principles and follow the First Party’s instructions unless they contradict the contract, the law, or public morals.",duties
+C005,ar,7.2,يلتزم الطرف الثاني بالمحافظة على أدوات وممتلكات الطرف الأول وإعادتها وعدم التصرف فيها.,duties
+C005,en,7.2,"The Second Party shall take proper care of the First Party’s tools/property and return them, without disposing of them.",duties
+C005,ar,7.3,يقدم الطرف الثاني المساعدة والدعم دون طلب أجر إضافي في الحالات التي تهدد سلامة مكان العمل أو العاملين.,duties
+C005,en,7.3,The Second Party shall provide assistance and support without requesting additional pay in cases threatening workplace safety.,duties
+C005,ar,7.4,يخضع الطرف الثاني للفحوص الطبية التي يطلبها الطرف الأول قبل أو أثناء الالتحاق للتحقق من الخلو من الأمراض المهنية أو المعدية.,general
+C005,en,7.4,The Second Party shall undergo medical examinations required by the First Party to verify fitness and absence of occupational/communicable diseases.,general
+C005,ar,7.5,يلتزم الطرف الثاني بعدم منافسة الطرف الأول لمدة سنتين بعد انتهاء العقد فيما يتعلق بطبيعة العمل داخل المملكة.,penalties
+C005,en,7.5,"After the end of the contract, the Second Party must not compete with the First Party for two years in relation to the work within the Kingdom.",penalties
+C005,ar,7.6,يلتزم الطرف الثاني بعدم إفشاء أسرار الطرف الأول لمدة سنتين بعد انتهاء العقد.,duties
+C005,en,7.6,The Second Party must not disclose the First Party’s secrets for two years after the end of the contract.,duties
+C005,ar,7.7,"يلتزم الطرف الثاني بحسن السلوك والالتزام بالقواعد والأنظمة والأعراف السارية، وقد تترتب عليه تبعات مالية عند المخالفة.",penalties
+C005,en,7.7,The Second Party shall maintain good conduct and comply with applicable rules; financial consequences may result from violations.,penalties
+C005,ar,7.8,يوافق الطرف الثاني على استقطاع النسبة النظامية من الأجر الشهري مقابل الاشتراك في التأمينات الاجتماعية.,salary_terms
+C005,en,7.8,The Second Party agrees to statutory deductions from monthly wage for participation in GOSI.,salary_terms
+C005,ar,8.1,ينتهي العقد بانتهاء مدته أو باتفاق الطرفين على الإنهاء وفق الضوابط.,termination
+C005,en,8.1,The contract ends upon expiry of its term or by mutual agreement to terminate under applicable conditions.,termination
+C005,ar,8.2,يحق للطرف الأول إنهاء العقد دون تعويض وفق الحالات المنصوص عليها في المادة (80) من نظام العمل مع إتاحة الفرصة للطرف الثاني لإبداء أسباب الاعتراض.,termination
+C005,en,8.2,"The First Party may terminate without compensation according to the cases in Article 80 of Saudi Labor Law, while giving the Second Party an opportunity to state reasons for objection.",termination
+C005,ar,8.3,يحق للطرف الثاني ترك العمل وإنهاء العقد وفق الحالات المنصوص عليها في المادة (81) من نظام العمل مع حفظ حقوقه.,termination
+C005,en,8.3,The Second Party may leave work and terminate the contract in the cases set out in Article 81 of Saudi Labor Law while preserving their rights.,termination
+C005,ar,9.1,يستحق الطرف الثاني مكافأة نهاية الخدمة وفق نظام العمل وتُحسب عادة على أساس الأجر الأخير ومدة الخدمة.,termination
+C005,en,9.1,"The Second Party is entitled to end-of-service benefits in accordance with Saudi Labor Law, typically calculated based on last wage and length of service.",termination
+C005,ar,10.1,"يخضع هذا العقد لنظام العمل ولوائحه التنفيذية والقرارات الصادرة لتنفيذه، ويحل محل أي اتفاقات أو عقود سابقة.",governing_law
+C005,en,10.1,"This contract is subject to Saudi Labor Law, its executive regulations, and implementing decisions, and it replaces any previous agreements if any.",governing_law
+C005,ar,10.2,"عند نشوء نزاع، يكون الاختصاص للجهة العمالية المختصة داخل المملكة العربية السعودية.",governing_law
+C005,en,10.2,"In the event of a dispute, jurisdiction lies with the competent labor authority within the Kingdom of Saudi Arabia.",governing_law
+C005,ar,10.3,"تكون الإشعارات والإنذارات كتابية عبر قنوات التواصل الإلكترونية في منصة قوى، ويلتزم الطرفان بتحديث بيانات الاتصال عند أي تغيير.",general
+C005,en,10.3,Warnings and notifications shall be in writing via electronic communication channels on the Qiwa platform; both parties must update contact details upon any change.,general
+C005,ar,11.1,بنود إضافية: يحق للطرف الثاني إجازة سنوية مدفوعة (21) يومًا لكل سنة وفق ما هو منصوص.,benefits
+C005,en,11.1,Additional terms: the Second Party is entitled to paid annual leave of 21 days per year as stated.,benefits
+C005,ar,11.2,يجوز للطرف الثاني طلب إجازة لأيام محددة بإشعار كتابي مسبق للطرف الأول (مع استثناء الحالات الطارئة).,benefits
+C005,en,11.2,The Second Party may request specific leave days by providing prior written notice to the First Party (emergency cases excluded).,benefits
+C005,ar,11.3,يلتزم الطرف الثاني بأداء مهام إضافية يكلّفه بها الطرف الأول ضمن نطاق مؤهلاته.,duties
+C005,en,11.3,The Second Party shall perform additional duties assigned by the First Party within their qualifications.,duties
+C005,ar,11.4,يستحق الطرف الثاني تذكرة سفر اقتصادية عند استحقاق الإجازة السنوية وفق ما هو منصوص.,benefits
+C005,en,11.4,The Second Party is entitled to an economy-class airline ticket when eligible for annual leave as stated.,benefits
+C005,ar,11.5,يتحمل الطرف الثاني مصاريف السفر الإضافية المتعلقة بالمرافقين (إن وجدت).,benefits
+C005,en,11.5,The Second Party bears additional travel expenses related to dependents (if any).,benefits
+C005,ar,11.6,"عند إنهاء العقد، يجب على الطرف الثاني إعادة ممتلكات الطرف الأول، ويجوز للطرف الأول خصم قيمة الممتلكات المتلفة/المفقودة وفق النظام.",penalties
+C005,en,11.6,"Upon termination, the Second Party must return the First Party’s property, and the First Party may deduct the value of damaged/lost property in accordance with the law.",penalties
+C005,ar,11.7,"إذا تم إنهاء العقد قبل انتهاء مدته دون سبب مشروع، يستحق الطرف المتضرر تعويضًا يُحدد وفق أحكام النظام.",termination
+C005,en,11.7,"If the contract is terminated before expiry without a legitimate reason, the affected party is entitled to compensation determined under the law.",termination
+C005,ar,11.8,يقر الطرف الثاني بالالتزام باللوائح الداخلية السارية وأنها جزء من هذا العقد ما لم ينص على خلاف ذلك.,duties
+C005,en,11.8,The Second Party acknowledges compliance with internal regulations in effect; they form an integral part of this contract unless otherwise stated.,duties
+C005,ar,11.9,يجوز تكليف الطرف الثاني بالعمل الإضافي والعمل في العطل الرسمية وفق حاجة العمل.,working_hours
+C005,en,11.9,The Second Party may be assigned overtime work and work on official holidays as required.,working_hours
+C005,ar,11.1,المراسلات المتعلقة بالعقد تتم عبر قنوات موثقة وتُعد منتجة لآثارها عند استلامها.,general
+C005,en,11.1,Correspondence related to this contract may be exchanged via documented channels and is effective upon receipt.,general
+C005,ar,11.11,يتجدد العقد لمدة سنتين ما لم يخطر أحد الطرفين الآخر بعدم الرغبة في التجديد قبل 30 يومًا من تاريخ الانتهاء.,contract_duration
+C005,en,11.11,The contract renews for a period of two years unless either party notifies the other of unwillingness to renew at least 30 days before the expiry date.,contract_duration
+C006,ar,0.1,عقد عمل بين الطرف الأول والطرف الثاني وفق نظام العمل بالمملكة العربية السعودية.,general
+C006,en,0.1,An employment agreement between the First Party and the Second Party in accordance with Saudi Labor Law.,general
+C006,ar,1.1,يعمل الطرف الثاني لدى الطرف الأول وفق الشروط الواردة في هذا العقد وفي أي فروع أو مواقع تابعة له داخل المملكة.,duties
+C006,en,1.1,The Second Party shall work for the First Party under the terms of this agreement at any of its branches or sites within the Kingdom.,duties
+C006,ar,1.2,يسري هذا العقد اعتبارًا من تاريخ وصول الطرف الثاني إلى المملكة العربية السعودية.,contract_duration
+C006,en,1.2,This agreement becomes effective from the date the Second Party arrives in the Kingdom of Saudi Arabia.,contract_duration
+C006,ar,2.1,مدة هذا العقد سنة واحدة قابلة للتجديد لمدد مماثلة ما لم يخطر أحد الطرفين الآخر بعدم الرغبة في التجديد قبل 30 يومًا.,contract_duration
+C006,en,2.1,"The term of this contract is one year, renewable for similar periods unless either party notifies the other at least 30 days prior to expiry.",contract_duration
+C006,ar,3.1,يلتزم الطرف الأول بدفع راتب شهري للطرف الثاني قدره ___ ريال سعودي.,salary_terms
+C006,en,3.1,The First Party shall pay the Second Party a monthly salary of ___ Saudi Riyals.,salary_terms
+C006,ar,3.2,يستحق الطرف الثاني السكن المناسب المفروش من قبل الطرف الأول.,benefits
+C006,en,3.2,The Second Party shall be provided with suitable furnished accommodation by the First Party.,benefits
+C006,ar,3.3,يوفر الطرف الأول للطرف الثاني ثلاث وجبات يوميًا مجانًا.,benefits
+C006,en,3.3,The First Party shall provide the Second Party with three free meals daily.,benefits
+C006,ar,4.1,يستحق الطرف الثاني إجازة سنوية مدفوعة الأجر بعد إتمام اثني عشر شهرًا من الخدمة.,benefits
+C006,en,4.1,The Second Party shall be entitled to paid annual leave after completing twelve months of service.,benefits
+C006,ar,4.2,تدفع أجور الإجازة مقدماً قبل التمتع بها.,benefits
+C006,en,4.2,Vacation wages shall be paid in advance prior to taking leave.,benefits
+C006,ar,5.1,يوفر الطرف الأول العلاج الطبي المجاني للطرف الثاني وفق نظام العمل.,benefits
+C006,en,5.1,The First Party shall provide free medical treatment to the Second Party in accordance with Saudi Labor Law.,benefits
+C006,ar,6.1,يتحمل الطرف الأول تكاليف انتقال الطرف الثاني إلى المملكة وتكاليف العودة بعد انتهاء العقد.,benefits
+C006,en,6.1,The First Party shall bear the cost of transporting the Second Party to the Kingdom and return costs after contract termination.,benefits
+C006,ar,6.2,يتحمل الطرف الأول رسوم الإقامة والتأشيرات ورسوم الدخول والخروج.,benefits
+C006,en,6.2,"The First Party shall bear residence, visa, entry, and exit fees.",benefits
+C006,ar,7.1,يخضع الطرف الثاني لجميع أنظمة العمل وساعات العمل والإجازات المقررة نظامًا.,working_hours
+C006,en,7.1,"The Second Party shall be subject to all labor regulations regarding working hours, leave, and rest.",working_hours
+C006,ar,7.2,يلتزم الطرف الثاني باتباع تعليمات وأنظمة الطرف الأول والمحافظة على سمعته.,duties
+C006,en,7.2,The Second Party shall comply with the First Party’s instructions and preserve its reputation.,duties
+C006,ar,8.1,يجوز إنهاء هذا العقد بإشعار كتابي مدته ثلاثون يومًا من أي من الطرفين.,termination
+C006,en,8.1,This contract may be terminated by either party with thirty days’ written notice.,termination
+C006,ar,8.2,يجوز للطرف الأول إنهاء العقد دون إشعار في حال المخالفات الجسيمة وفق المادة 83 من نظام العمل.,termination
+C006,en,8.2,The First Party may terminate the contract without notice in case of serious violations in accordance with Article 83 of Saudi Labor Law.,termination
+C006,ar,9.1,يقر الطرف الثاني بعدم مزاولة أي عمل آخر مدفوع الأجر خلال سريان هذا العقد.,penalties
+C006,en,9.1,The Second Party acknowledges that they shall not engage in any other paid work during the validity of this contract.,penalties
+C006,ar,9.2,يلتزم الطرف الثاني بمغادرة المملكة فور انتهاء العقد ما لم يتم تجديده.,termination
+C006,en,9.2,The Second Party shall depart the Kingdom immediately upon contract termination unless renewed.,termination
+C006,ar,10.1,يخضع هذا العقد لأنظمة وقوانين المملكة العربية السعودية.,governing_law
+C006,en,10.1,This agreement shall be governed by the laws and regulations of the Kingdom of Saudi Arabia.,governing_law
+C007,ar,0.1,تم إبرام هذا العقد بين مكتب الرائد للهندسة والطرف الثاني (الموظف) وفق نظام العمل بالمملكة العربية السعودية.,general
+C007,en,0.1,This contract is concluded between Raed Al‑Engineering Office and the Second Party (Employee) in accordance with Saudi Labor Law.,general
+C007,ar,1.1,يوافق الموظف على العمل لدى المكتب في الوظيفة المحددة أو أي وظيفة أخرى يراها المكتب مناسبة لمؤهلاته.,duties
+C007,en,1.1,The Employee agrees to work for the Office in the specified position or any other position deemed suitable to his qualifications.,duties
+C007,ar,2.1,يجوز تكليف الموظف بالعمل في أي مكان داخل المملكة العربية السعودية.,duties
+C007,en,2.1,The Employee may be assigned to work at any location within the Kingdom of Saudi Arabia.,duties
+C007,ar,3.1,تبدأ فترة العمل من تاريخ مباشرة الموظف وتستمر لمدة سنتين قابلة للتجديد تلقائيًا ما لم يتم إنهاؤها وفق العقد.,contract_duration
+C007,en,3.1,"The employment period shall begin from the date the Employee starts work and continue for two years, renewable automatically unless terminated as provided herein.",contract_duration
+C007,ar,3.2,تُعتبر التسعون يومًا الأولى من العمل فترة تجربة يجوز خلالها إنهاء الخدمة وإعادة الموظف لبلده على نفقة المكتب.,probation
+C007,en,3.2,The first ninety days of employment shall be considered a probation period during which the Employee may be terminated and repatriated at the Employer’s expense.,probation
+C007,ar,4.1,يكون الراتب الأساسي للموظف مبلغًا محددًا بالريال السعودي ويُدفع شهريًا دون تعديل بسبب تغير العملة.,salary_terms
+C007,en,4.1,"The Employee’s basic salary shall be a fixed amount in Saudi Riyals, payable monthly without adjustment due to currency fluctuation.",salary_terms
+C007,ar,5.1,"ساعات العمل 48 ساعة أسبوعيًا موزعة على ستة أيام عمل، مع قبول الموظف بالعمل بنظام النوبات عند الحاجة.",working_hours
+C007,en,5.1,"Working hours shall be 48 hours per week distributed over six working days, and the Employee agrees to shift work if required.",working_hours
+C007,ar,6.1,يتحمل المكتب نفقات العلاج الطبي للموظف باستثناء علاج الأسنان والنظارات الطبية.,benefits
+C007,en,6.1,The Employer shall bear the cost of medical treatment for the Employee excluding dental care and eyeglasses.,benefits
+C007,ar,7.1,يستحق الموظف إجازة مدفوعة الأجر لمدة ثلاثين يومًا عن كل سنتين وفق متطلبات العمل.,benefits
+C007,en,7.1,"The Employee shall be entitled to paid leave of thirty days for every two years, subject to work requirements.",benefits
+C007,ar,7.2,يستحق الموظف العطلات الرسمية المعتمدة في المملكة العربية السعودية.,benefits
+C007,en,7.2,The Employee shall be entitled to official public holidays in the Kingdom of Saudi Arabia.,benefits
+C007,ar,8.1,يلتزم الموظف باحترام القوانين والعادات العامة والمحافظة على السلوك الحسن وعدم الإضرار بمصالح المكتب.,duties
+C007,en,8.1,"The Employee shall comply with laws, customs, proper conduct, and avoid harming the Employer’s interests.",duties
+C007,ar,9.1,لا يجوز للموظف العمل لدى أي جهة أخرى داخل المملكة بعد انتهاء العقد إلا بموافقة خطية من المكتب.,penalties
+C007,en,9.1,The Employee may not work for any other entity in the Kingdom after contract termination without written consent from the Employer.,penalties
+C007,ar,10.1,يُعامل الموظف كأعزب ولا يستحق أي مزايا متعلقة بالمعالين.,general
+C007,en,10.1,The Employee shall be treated as single and shall not be entitled to dependent-related benefits.,general
+C007,ar,11.1,يجوز للمكتب إنهاء العقد دون إشعار أو تعويض في حال الإخلال الجسيم بواجبات العمل وفق نظام العمل.,termination
+C007,en,11.1,The Employer may terminate the contract without notice or compensation in cases of serious breach in accordance with Saudi Labor Law.,termination
+C007,ar,11.2,يجوز للمكتب إنهاء العقد بإشعار كتابي مدته ثلاثون يومًا أو دفع راتب شهر كتعويض.,termination
+C007,en,11.2,The Employer may terminate the contract with thirty days’ written notice or by paying one month’s salary as compensation.,termination
+C007,ar,11.3,عند استقالة الموظف يجب عليه إشعار المكتب كتابيًا قبل ثلاثين يومًا ويتحمل تكاليف سفره.,termination
+C007,en,11.3,"If the Employee resigns, he must provide thirty days’ written notice and bear the cost of repatriation.",termination
+C007,ar,12.1,في حالة وفاة الموظف يتكفل المكتب بإعادة جثمانه وتعويض ورثته وفق نظام العمل.,termination
+C007,en,12.1,"In the event of the Employee’s death, the Employer shall repatriate the body and compensate heirs according to Saudi Labor Law.",termination
+C007,ar,13.1,يستحق الموظف مكافأة نهاية خدمة تعادل نصف راتب عن كل سنة خدمة.,termination
+C007,en,13.1,The Employee shall be entitled to an end-of-service benefit equal to half a monthly salary for each year of service.,termination
+C007,ar,14.1,يوفر المكتب السكن والنقل والطعام وتذاكر السفر وفق الشروط المحددة.,benefits
+C007,en,14.1,"The Employer shall provide housing, transportation, food allowance, and travel tickets as specified.",benefits
+C007,ar,15.1,يخضع الموظف لأنظمة المكتب ونظام العمل السعودي ويكون مكتب العمل الجهة المختصة بأي نزاع.,governing_law
+C007,en,15.1,"The Employee shall be subject to Employer regulations and Saudi Labor Law, and the Labor Office shall have jurisdiction over disputes.",governing_law
+C007,ar,16.1,يمثل هذا العقد كامل الاتفاق بين الطرفين ويحل محل أي اتفاقات سابقة ويُفسر وفق أنظمة المملكة.,governing_law
+C007,en,16.1,"This contract represents the full agreement between the parties, supersedes prior agreements, and shall be interpreted under the laws of the Kingdom.",governing_law
